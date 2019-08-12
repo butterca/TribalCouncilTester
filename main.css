@@ -1,0 +1,93 @@
+body, html {
+  margin: 20;
+  padding: 20;
+  width: 100%;
+  height: 100%;
+    
+}
+
+body {
+  font-size: 12px;
+    font-family: papyrus;
+    color: black;
+    background-image: url("tbco.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 0; 
+}
+
+.header{
+    
+    text-align: center;
+}
+
+.gameStuff{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+/*
+div{
+    text-align: center;
+}
+*/
+
+.questionOutput{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+button{
+    margin: 25px;
+    width: 60%;
+    height: 80px;
+    text-align: center;
+    background: white;
+    font-weight: 700;
+    font-family: papyrus;
+    color: gray;
+    
+}
+
+input{
+    font-family: papyrus;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profPic{
+    padding-top: 10px;
+}
+
+/*
+.buttonsAB{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.buttonsBC{
+   display: flex;
+    flex-wrap: wrap;
+}
+*/
+
+.video{
+    width: 100%;
+    height: 100%;
+}
